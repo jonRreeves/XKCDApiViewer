@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XKCDApi", "XKCDApi.csproj", "{4BFCBF73-E15D-44D7-97EC-80CD63F076B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILibrary", "..\APILibrary\APILibrary.csproj", "{1AD57C7F-9609-4BEC-B4FE-6B1C97FAD65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFCBF73-E15D-44D7-97EC-80CD63F076B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFCBF73-E15D-44D7-97EC-80CD63F076B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFCBF73-E15D-44D7-97EC-80CD63F076B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFCBF73-E15D-44D7-97EC-80CD63F076B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD57C7F-9609-4BEC-B4FE-6B1C97FAD65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD57C7F-9609-4BEC-B4FE-6B1C97FAD65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD57C7F-9609-4BEC-B4FE-6B1C97FAD65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD57C7F-9609-4BEC-B4FE-6B1C97FAD65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E694BABE-E087-4FF4-95CC-58C78791296B}
+	EndGlobalSection
+EndGlobal
